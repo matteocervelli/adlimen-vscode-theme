@@ -1,34 +1,33 @@
 # Adlimen Growth Engineering Theme
 
-Un tema per Visual Studio Code basato sul sistema cromatico Adlimen Growth Engineering, che riflette i cinque livelli di crescita aziendale: Foundation, Emergence, Growth, Scaling e Mastery.
+A theme for Visual Studio Code/Cline/Cursor based on the Ad Limen Growth Engineering chromatic system, which reflects the five levels of corporate growth: Foundation, Emergence, Growth, Scaling and Mastery.
 
-## Caratteristiche
+## Characteristics
 
-- **Tema completo**: Versioni chiara e scura
-- **Colori semantici**: Ogni colore rappresenta un concetto chiave del Growth Engineering
-- **Alta leggibilità**: Ottimizzato per sessioni di coding prolungate
-- **Supporto per markdown**: Styling speciale per documentazione e note
+- ** Complete theme **: clear and dark versions
+- ** semantic colors **: each color represents a key concept of growth engineering
+- ** High readability **: Optimized for prolonged coding sessions
+- ** Support for Markdown **: special styling for documentation and notes
 
-## Livelli di Growth Engineering nei colori
+## Growth Engineering levels in colors
 
-- **Foundation (Gray)**: Commenti, operatori, separatori
-- **Emergence (Orange/Yellow)**: Funzioni, citazioni, costrutti di importazione
-- **Growth (Green/Blue)**: Keywords, variabili, tipi e classi
-- **Scaling (Teal/Purple)**: Stringhe, numeri, espressioni regolari
-- **Mastery (Magenta/Navy)**: Costrutti avanzati del linguaggio
+- ** Foundation (Gray) **: comments, operators, separators
+- ** Emergence (Orange/Yellow) **: functions, quotes, import constructs
+- ** Growth (Green/Blue) **: Keywords, variables, types and classes
+- ** Scaling (Teal/Purple) **: strings, numbers, regular expressions
+- ** Masterly (Magenta/Navy) **: advanced language constructs
 
-## Installazione
+## Installation
 
-1. Vai su Extensions in VS Code (Ctrl+Shift+X)
-2. Cerca "Adlimen"
-3. Clicca su Install
-4. Vai su File > Preferences > Color Theme e seleziona il tema Adlimen
+1. Go to Extensions in VS Code (Ctrl+Shift+X)
+2. Search "Adlimette"
+3. Click on Install
+4. Go to File> Preferences> Color Theme and select the Adlimette theme
 
 ## Screenshots
 
-[Screenshots to be added]
+[Screenshots to be aid]
 
 ## Feedback
 
-Per feedback e suggerimenti, contattare [info@adlimen.com](mailto:info@adlimen.com)
-
+For feedback and suggestions, contact [info@adlimen.com] (mailto: info@adlimen.com)
