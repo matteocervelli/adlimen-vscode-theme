@@ -20,9 +20,9 @@ A theme for Visual Studio Code/Cline/Cursor based on the Ad Limen Growth Enginee
 ## Installation
 
 1. Go to Extensions in VS Code (Ctrl+Shift+X)
-2. Search "Adlimette"
+2. Search "adlimen"
 3. Click on Install
-4. Go to File> Preferences> Color Theme and select the Adlimette theme
+4. Go to File> Preferences> Color Theme and select the Ad Limen theme
 
 ## Screenshots
 

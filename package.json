@@ -1,7 +1,7 @@
 {
   "name": "adlimen-theme",
   "displayName": "Adlimen Growth Engineering Theme",
-  "description": "Un tema VS Code ispirato al Growth Engineering System di Adlimen",
+  "description": "A VS Code theme inspired by the Growth Engineering System by adlimen.com",
   "version": "0.1.0",
   "publisher": "adlimen",
   "engines": {
