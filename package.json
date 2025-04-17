@@ -1,0 +1,34 @@
+{
+  "name": "adlimen-theme",
+  "displayName": "Adlimen Growth Engineering Theme",
+  "description": "Un tema VS Code ispirato al Growth Engineering System di Adlimen",
+  "version": "0.1.0",
+  "publisher": "adlimen",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Adlimen Growth Engineering Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/adlimen-theme-dark.json"
+      },
+      {
+        "label": "Adlimen Growth Engineering Light",
+        "uiTheme": "vs",
+        "path": "./themes/adlimen-theme-light.json"
+      }
+    ]
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/adlimen/adlimen-vscode-theme.git"
+  },
+  "license": [
+  "MIT"
+  ]
+}
