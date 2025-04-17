@@ -2,7 +2,6 @@
   "name": "Adlimen Theme Dark",
   "type": "dark",
   "colors": {
-    // Colori base dell'interfaccia
     "editor.background": "#1B2631",
     "editor.foreground": "#F5F5F5",
     "activityBar.background": "#233240",
@@ -18,7 +17,6 @@
     "titleBar.activeBackground": "#233240",
     "titleBar.activeForeground": "#F5F5F5",
     
-    // Elementi dell'editor
     "editor.lineHighlightBackground": "#2C3E5066",
     "editor.selectionBackground": "#34495E99",
     "editorCursor.foreground": "#3AA99F",
@@ -26,20 +24,17 @@
     "editorIndentGuide.background": "#4A658533",
     "editorIndentGuide.activeBackground": "#4A658599",
     
-    // Bordi e pannelli
     "panel.background": "#1D2A36",
     "panel.border": "#34495E",
     "panelTitle.activeForeground": "#F5F5F5",
     "panelTitle.inactiveForeground": "#B1BFD0",
     "editorGroupHeader.tabsBorder": "#34495E",
     
-    // Interfaccia di ricerca
     "input.background": "#233240",
     "input.foreground": "#F5F5F5",
     "input.placeholderForeground": "#8EA2B9",
     "inputOption.activeBorder": "#008080",
     
-    // Liste e alberi
     "list.activeSelectionBackground": "#34495E",
     "list.activeSelectionForeground": "#F5F5F5",
     "list.inactiveSelectionBackground": "#2C3E50",
@@ -47,12 +42,10 @@
     "list.hoverBackground": "#2C3E5066",
     "list.highlightForeground": "#3AA99F",
     
-    // Scrollbar
     "scrollbarSlider.background": "#4A658533",
     "scrollbarSlider.hoverBackground": "#4A658566",
     "scrollbarSlider.activeBackground": "#4A658599",
     
-    // Badge e notifiche
     "badge.background": "#008080",
     "badge.foreground": "#F5F5F5",
     "notificationCenter.border": "#008080",
@@ -60,7 +53,6 @@
     "notificationsWarningIcon.foreground": "#DA702C",
     "notificationsInfoIcon.foreground": "#4385BE",
     
-    // Git decorazioni
     "gitDecoration.modifiedResourceForeground": "#DA702C",
     "gitDecoration.addedResourceForeground": "#879A39",
     "gitDecoration.deletedResourceForeground": "#D14D41",
@@ -68,7 +60,6 @@
     "gitDecoration.ignoredResourceForeground": "#6B84A2",
     "gitDecoration.conflictingResourceForeground": "#CE5D97",
     
-    // Breadcrumbs
     "breadcrumb.foreground": "#8EA2B9",
     "breadcrumb.focusForeground": "#F5F5F5",
     "breadcrumb.activeSelectionForeground": "#F5F5F5",
