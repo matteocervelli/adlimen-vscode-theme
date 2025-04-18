@@ -3,7 +3,7 @@
 Ad Limen is a Visual Studio Code theme inspired by the Ad Limen brand manifesto and color system. It blends clarity, minimalism, and strategic depth to support focused work and creative flow.
 
 ![Dark Theme preview](https://cdn.adlimen.com/themes/vscode-adlimen/dark-1-md.png)
-![Light Theme preview](https://cdn.adlimen.com//themes/vscode-adlimen/light-4-py.png)
+![Light Theme preview](https://cdn.adlimen.com/themes/vscode-adlimen/light-4-py.png)
 ## Why this theme
 
 This theme was created to:
