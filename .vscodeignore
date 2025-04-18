@@ -1,0 +1,8 @@
+.git/**
+.gitignore
+example-pages/**
+.vscode/**
+node_modules/**
+.editorconfig
+tsconfig.json
+vsc-extension-quickstart.md
